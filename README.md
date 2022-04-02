@@ -1,2 +1,1 @@
-# c30_alumno_brenda
-correcto
+# C30-completo
